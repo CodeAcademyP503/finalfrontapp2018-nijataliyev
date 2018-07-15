@@ -1,0 +1,20 @@
+let enlangguges = [
+    "Utility",
+    "Mobile",
+    "Bank Services",
+    "Government and municipality",
+    "TV",
+    "Internet",
+    "Phone",
+    "Entertainment and Games",
+    "Wallet",
+    "Insuarence services",
+    "Anounces and Discounts",
+    "charitable and Help",
+    "Payment cards",
+    "Domofon",
+    "Online shops",
+    "Education",
+    "Others",
+    "Tourism and Travel"
+]

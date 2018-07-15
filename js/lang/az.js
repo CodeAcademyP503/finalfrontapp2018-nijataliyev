@@ -1,0 +1,20 @@
+let azlangguges = [
+      "Kommunal ödənişlər",
+     "Mobil operatorlar",
+     "Bank xidmətləri",
+     "Dövlət və Bələdiyyə",
+     "TV",
+     "Internet",
+      "Telefon",
+      "Əyləncə və Oyunlar",
+      "E-pulqabı",
+      "Sığorta xidmətləri",
+      "Elanlar və endirimlər",
+     "Xeyriyyə ve yardım",
+     "Ödəmə kartları",
+     "Domofon",
+     "Onlayn mağazalar",
+     "Təhsil",
+     "Digərləri",
+      "Turizm və Səyahət"
+]

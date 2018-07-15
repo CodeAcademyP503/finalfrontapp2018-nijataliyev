@@ -1,0 +1,111 @@
+body{
+    margin:0px auto;
+    background-color: #cccccc;
+}
+.topBar img{
+    width: 100%;
+}
+.topBar{
+    line-height: 120px;
+    border-radius: 10px;
+    margin: 0px 5px;
+    cursor: pointer;
+}
+.hour_parent{
+    position: absolute;
+    width: 100px;
+    height: 80px;
+    background: #ccc;
+    margin-top: 25px;
+    margin-left:110px;
+}
+.main_parent{
+    margin-top: -30px;
+    margin-left: 100px;
+}
+.emanat_logo{
+    margin-left: 490px;
+    width: 345px;
+    margin-top: -15px;
+}
+.lang_parent img{
+    width: 50px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+.lang_parent{
+    margin-right: 145px;
+}
+.info_logo{
+    width: 70px;
+    position: absolute;
+    top:42px;
+}
+.main_galary{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    grid-gap: 10px;
+    cursor: pointer;
+    margin-top: 50px;
+
+}
+.main{
+    width: 625px;
+    height: 430px; 
+    overflow: hidden;
+    margin: 50px auto;
+   
+}
+ .menu{
+    border-radius: 10px;
+    box-sizing: border-box;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 30px;
+}
+.icons{
+    font-size: 35px;
+    margin-top:0px;
+}
+.wrapper .left, .right{
+    position: absolute;
+    top: 450px;
+    font-size: 50px;
+    color: white;
+    cursor: pointer;
+}
+.wrapper .left{
+    left: 300px;
+    color: blue;
+    border:2px solid white;
+    border-radius: 30px;
+}
+.wrapper .right{
+    right: 300px;
+    color:blue;
+    border: 2px solid white;
+    border-radius: 30px;
+}
+#grid-container{
+    width: 400px;
+    height: 300px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 30px;
+    margin-left: 485px;
+}
+#grid-container #btn-digit{
+    background-color: orangered;
+}
+#text{
+    grid-column-start: 1;
+    grid-column-end: 4;
+
+}
+
+#container{
+    margin-left: 50px;
+}
